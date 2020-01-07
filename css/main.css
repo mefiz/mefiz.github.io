@@ -13,13 +13,18 @@
 }
 
 .side-content li {
-  padding: 2.5rem 0rem 2.5rem 0.5rem;
+  padding: 2.5rem 0rem 2.5rem 0rem;
+  text-align: center;
 }
 
 .fas {
   color: white;
+  font-size: 2rem;
 }
 
 .fas:active {
   color: greenyellow;
+}
+
+.main {
 }
