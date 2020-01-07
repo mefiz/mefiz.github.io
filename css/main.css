@@ -1,0 +1,25 @@
+.side-navbar {
+  display: flex;
+  position: relative;
+}
+
+.side-navbar .side-content {
+  width: 4rem;
+  height: 100%;
+  background: #4b4276;
+  padding: 30px 0px;
+  position: fixed;
+  margin-top: auto;
+}
+
+.side-content li {
+  padding: 2.5rem 0rem 2.5rem 0.5rem;
+}
+
+.fas {
+  color: white;
+}
+
+.fas:active {
+  color: greenyellow;
+}
