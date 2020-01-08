@@ -17,9 +17,8 @@ b {
   width: 4rem;
   height: 100%;
   background: #181818;
-  padding: 4.5rem 0rem 0rem 0rem;
+  padding: 4rem 0rem 0rem 0rem;
   position: fixed;
-  margin: 0px auto 0px 0px;
 }
 
 .side-content a {
@@ -45,8 +44,4 @@ b {
 .fas {
   color: white;
   font-size: 2rem;
-}
-
-.fas:active {
-  color: greenyellow;
 }
